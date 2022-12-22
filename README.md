@@ -3,7 +3,7 @@
 <div align = center>
   <h3> Links to my different Github Accounts! </h3>
 
-<b>Professional Account</b>&nbsp;&nbsp;|&nbsp;&nbsp;<b>This Account</b>&nbsp;&nbsp;|&nbsp;&nbsp;Personal Account
+Professional Account&nbsp;&nbsp;|&nbsp;&nbsp;University Account&nbsp;&nbsp;|&nbsp;&nbsp;<b>This Account</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=https://github.com/AaronDelaney99> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<a href=https://github.com/Priimalhunter> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> </a>&nbsp;&nbsp;
