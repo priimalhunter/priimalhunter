@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Delaney! <img src="https://cdn.frankerfacez.com/emoticon/567712/4"  width="64px" height="64px" align="center" alt="OkaygeBusiness" />
+# Hi, I'm Aaron Delaney!
 
 <div align = center>
   <h3> Links to my different Github Accounts! </h3>
